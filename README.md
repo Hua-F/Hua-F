@@ -2,6 +2,8 @@ Welcome to my profile!
 
 I am just a newbie at coding and still in the learning phases (I still have a long way to go).
 
+Just started a git profile to better track my progress
+
 Primary coding language is C++, and roughly started learning Assembly.
 
 One of my big goals are to hopefully code a functioning game one day.
