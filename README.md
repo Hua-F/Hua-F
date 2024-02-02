@@ -1,8 +1,11 @@
-Welcome to my README.md . o O (I told to introduce myself with this)
+Welcome to my profile!
 
--> Hello, I am a newbie at coding and I have no idea what I'm doing
--> Currently learning C++
--> Surely, one day I will be decent enough
--> It would be cool to learn to code some simple games and build a bit of my portfolio
+I am just a newbie at coding and still in the learning phases (I still have a long way to go).
 
-<-> I don't know what else to put so, have a good morning <->
+Primary coding language is C++, and roughly started learning Assembly.
+
+One of my big goals are to hopefully code a functioning game one day.
+
+Other than that I hope I can improve.
+
+If you made it this far, I hope you have a good day!
